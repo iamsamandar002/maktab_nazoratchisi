@@ -1,2 +1,2 @@
 # maktab_nazoratchisi
-Bu aiogram + djando admin orqali ishlaydigan bot
+Bu aiogram + django admin orqali ishlaydigan bot
